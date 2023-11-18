@@ -8,3 +8,5 @@ This is a simple guide to make laravel rest-API using laravel best practices.
 - Filtering
 - Protecting routes and authorising request with token abilities
 - Implementing the correct connection between Request-> Controller-> Resource
+- Factory functions and bulk seed
+- Including related data to main model in the right way
